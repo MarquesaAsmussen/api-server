@@ -8,11 +8,11 @@ Marquesa Asmussen
 
 ## Links to Application Deployment
 
-[Heroku](https://marquesa-basic-api-server.herokuapp.com/)
+[Heroku]()
 
-[Actions Page](https://github.com/MarquesaAsmussen/basic-api-server/actions/new)
+[Actions Page](https://github.com/MarquesaAsmussen/api-server/actions/new)
 
-[PR](https://github.com/MarquesaAsmussen/basic-api-server/pull/1)
+[PR]()
 
 ## Include Embedded UML
 
